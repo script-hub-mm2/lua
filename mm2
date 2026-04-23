@@ -1,5 +1,5 @@
-loadstring(game:HttpGet("https://pastefy.app/HGkaRV4s/raw"))()
---// AUTO SAVE SYSTEM
+
+// AUTO SAVE SYSTEM
 local HttpService = game:GetService("HttpService")
 local CONFIG_FILE = "kawatan_config.json"
 local Saved = {}
